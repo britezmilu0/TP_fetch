@@ -1,0 +1,16 @@
+#contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 40px;
+    background-color: #bed084;
+    justify-content: center;
+
+}
+.personajes-cont{
+background-color: black;
+margin: 10px;
+border-radius: 10px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: blanchedalmond;
+
+}
